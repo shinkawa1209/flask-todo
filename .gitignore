@@ -1,4 +1,5 @@
 __pycache__
 .DS_Store
+conf.ini
 test.py
 test2.py
